@@ -1,0 +1,1 @@
+# Crime-and-Politics This is a data project that will look at the crime rates over the past 20 years and compare these crime rate to the 20 years that Democrats and Republicans that hold office. I will see if there is any increase or decrease in violent crime to different states that have been ran by either political party.   
