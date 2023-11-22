@@ -1,11 +1,11 @@
 
 
-This data project analyzes crime rates over the past 20 years and compares them to the political party in control. The goal is to investigate whether there is any correlation between violent crime rates and the political party in power in different states.
+This data project analyzes crime rates over the past 10 years and compares them to the political party in control. The goal is to investigate whether there is any correlation between violent crime rates and the political party in power in different states.
 
 ## Introduction
 
 The project focuses on examining crime rates in the context of political party governance. Specifically, it aims to answer questions such as:
-- Are there noticeable trends in crime rates over the past 20 years?
+- Are there noticeable trends in crime rates over the past 10 years?
 - Is there a correlation between violent crime rates and the political party in control?
 - How do the top three states with the highest crime rates correlate with the political party in office?
 
@@ -23,7 +23,7 @@ These datasets contain crime-related crime rates by state, national rates and th
 ## Data Analysis
 
 ### Questions to Answer:
-1. Has the trends in crime rates over the past 20 years increase or decease?
+1. Has the trends in crime rates over the past 10 years increase or decease?
 2. Is there a correlation between violent crime rates and the political party in control?
 3. How do the top three states with the highest crime rates correlate with the political party in office?
 
