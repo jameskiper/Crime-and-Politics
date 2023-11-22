@@ -13,7 +13,6 @@ The project focuses on examining crime rates in the context of political party g
 
 The following data files are included in this repository:
 - `dataFiles/crimes.dataset.csv`
-- `dataFiles/crimes.dataset.xlsx`
 - `dataFiles/united_states_governors_1775_2020.csv`
 - `dataFiles/us_presidents.csv`
 - `dataFiles/violent_crime_rates_all_years.csv`
