@@ -13,8 +13,7 @@ The project focuses on examining Violent Crimes rates per States and Population 
 
 The following data files are included in this repository:
 - `dataFiles/crimes.dataset.csv`
-- `dataFiles/united_states_governors_1775_2020.csv`
-- `dataFiles/us_presidents.csv`
+
 - `dataFiles/violent_crime_rates_all_years.csv`
 
 These datasets contain crime-related crime rates by state, national rates and the past 20 years of the Presidents and Governors,that will be used for this analysis.
