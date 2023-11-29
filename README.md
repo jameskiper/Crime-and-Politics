@@ -42,7 +42,10 @@ Follow these steps to run the data analysis project locally:
 - Python 3.11.4
 - Jupyter Notebook 6.5.4
 
-### Installation:
+### Setting Up a Virtual Enviroment
+To run this project,its is recommended to use a virtual environment.
+Follew these steps to set it up.
+
 1. Clone the repository:
 
     ```bash
