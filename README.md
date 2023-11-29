@@ -31,7 +31,7 @@ The population growth has grown 17.80% between 2000 and 2020 and and the crime r
 ## Outcome of the Data Analysis
 
 The over all violent crime rates per year has dropped from 1,425,486 starting in the year 2000 to 1,313,105 to the year 2020 that 
-results in a overall decrease in violent crime rates with a 0.43% violent crime rate of the percentage of the population per year in the United States from 2000 to 2020. The overall population has grown from the year 2000 to 2020 by 17.80% over the last 20 years. The top two States with the highest crime rates were California and Washington D.C. and the top two states with the lowest voilent crimes rates were Maine and Vermont.
+results in a overall decrease in violent crime rates with a 0.43% violent crime rate of the percentage of the population per year in the United States from 2000 to 2020. The overall population has grown from the year 2000 to 2020 by 17.80% over the last 20 years. The top two States with the highest crime rates were California during 2020 and Washington D.C. from 2011 to 2019. The top two states with the lowest voilent crimes rates were Maine during 2011 and 2015 thought 2015 and Vermont during 2012-2014 and 2020.
 
 
 ### Running the Analysis:
