@@ -14,15 +14,25 @@ The project focuses on examining Violent Crimes rates per States and Population 
 The following data files are included in this repository:
 - crimes.dataset.csv
 - violent_crime_rates_all_years.csv
+- 2020_population_violent_crime.csv
 
 These datasets contain crime-related crime rates by state from 2011 to 2020. The United States population and Violent crime rates of the past 20 years that will be used for this analysis.
 
 ## Data Analysis
 
 ### Questions to Answer:
-1. Has the trends in crime rates over the past 10 years increase or decease?
+1. Has the trends in crime rates over the past 10 years increase or decrease? 
+Yes, the crime rates have decrease in the last 10 years.
 2. What is the population growth and violent crimes rates over the last 20 years from 2000 to 2020.
+The population growth has grown 17.80% between 2000 and 2020 and and the crime rates were 0.43% over the last 20 years between 2000 to 2020. 
 3. What two states had the highest and lowest crime rates over the last 10 years from 2011 to 2020.
+ The two states that has the highest and the lowest vionlent crime rates from 2011 to 2020 with the top two highest states being California and Washington D.C. and the lowest crime rates being Maine and Vermont.
+
+## Outcome of the Data Analysis
+
+The over all violent crime rates per year has dropped from 1,425,486 starting in the year 2000 to 1,313,105 to the year 2020 that 
+results in a overall decrease in violent crime rates with a 0.43% violent crime rate of the percentage of the population per year in the United States from 2000 to 2020. The overall population has grown from the year 2000 to 2020 by 17.80% over the last 20 years. The top two States with the highest crime rates were California and Washington D.C. and the top two states with the lowest voilent crimes rates were Maine and Vermont.
+
 
 ### Running the Analysis:
 
@@ -67,7 +77,4 @@ Follow these steps to run the data analysis project locally:
 
 2. Follow the instructions in the notebook or script for data analysis.
 
-## Folder Structure
-
-The project is organized as follows:
 
