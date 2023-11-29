@@ -78,6 +78,7 @@ Follew these steps to set it up.
     python main.py  # If using a script
     ```
 
-2. Follow the instructions in the notebook or script for data analysis.
+2. To run my script 
+ Open my datafiles folder and open Edit_Finished_code_dataframe_for_project-1.ipynb to run my project script.
 
 
