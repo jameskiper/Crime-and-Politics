@@ -58,8 +58,10 @@ Follew these steps to set it up.
     For Windows use 
     ```bash
     python -m venv venv
-    .\venv\Scripts\activate   
+    .\venv\Scripts\activate 
+
     OR
+    
     For macOS/Linux use
     source venv/bin/activate 
     
