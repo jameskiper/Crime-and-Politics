@@ -6,7 +6,7 @@ This data project analyzes the violent crime rates over the past 10 years from e
 
 The project focuses on examining Violent Crimes rates per States and Population growth during the years 2011 through 2020.
 - What are the top two states with the highest and lowest crime rates over the past 10 years?
-- Has there been any growth in the United States during the last 20 years? 
+- Has there been any growth in the United States population during the last 20 years? 
 - Has there been an increase or decrease in violence in the last 20 years?
 
 ## Data Files
