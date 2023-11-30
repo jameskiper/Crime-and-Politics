@@ -5,7 +5,7 @@ This data project analyzes crime rates over the past 10 years and compares them 
 ## Introduction
 
 The project focuses on examining Violent Crimes rates per States and Population growth during the years 2011 throught 2020.
-- What are the top twe states with the highist and lowes crime rates over the past 10 years?
+- What are the top two states with the highist and lowes crime rates over the past 10 years?
 - Has there been any growth in the United states during the last 20 years. 
 - 
 
