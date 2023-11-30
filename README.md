@@ -50,21 +50,22 @@ Follew these steps to set it up.
 
     ```bash
     git clone https://github.com/jameskiper/States-and-Violent-Crime-Rates-.git
-    cd States-and-Violent-Ctime-Rates-
+    cd  States-and-Violent-Ctime-Rates-
     ```
 
-2. Set up a virtual environment:
+2. Set up a virtual environment: 
 
+    For Windows use 
     ```bash
     python -m venv venv
-    .\venv\Scripts\activate   # On Windows
-    # OR
-    source venv/bin/activate  # On macOS/Linux
+    .\venv\Scripts\activate   
+    OR
+    For macOS/Linux use
+    source venv/bin/activate 
     
     When you are done working in the virtual evironment
     Run deactivate
-   
- 
+
 3. Install dependencies:
 
     ```bash
@@ -76,9 +77,9 @@ Follew these steps to set it up.
 1. Open the Jupyter Notebook or run your Python script:
 
     ```bash
-    jupyter notebook  # If using Jupyter
+    jupyter notebook  
     # OR
-    python main.py  # If using a script
+    python main.py  
     ```
 
 2. To run my script:
