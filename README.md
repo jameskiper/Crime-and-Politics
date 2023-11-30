@@ -23,10 +23,11 @@ These datasets contain crime-related crime rates by state from 2011 to 2020. The
 ### Questions to Answer:
 1. Has the trends in crime rates over the past 10 years increased or decreased? 
 Yes, the crime rates have decreased in the last 10 years.
+
 2. What is the population growth and violent crimes rates over the last 20 years from 2000 to 2020?
-The population growth has grown 17.80% between 2000 and 2020 and the crime rates had decrease by 0.43% over the last 20 years between 2000 to 2020. 
-3. What two states had the highest and lowest crime rates over the last 10 years from 2011 to 2020.
- The two states that has the highest and the lowest vionlent crime rates from 2011 to 2020?
+The population growth has grown 17.80% between 2000 and 2020 and the crime rates had decrease by 0.43% over the last 20 years between 2000 to 2020.
+ 
+3. What two states had the highest and lowest crime rates over the last 10 years from 2011 to 2020?
  From 2011 to 2020, the two hightest crime rate states were California and Washington D.C. and the lowest crime rate being Maine and Vermont.
 
 ## Outcome of the Data Analysis
