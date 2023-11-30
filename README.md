@@ -43,46 +43,48 @@ Follow these steps to run the data analysis project locally:
 - Jupyter Notebook 6.5.4
 
 ### Setting Up a Virtual Enviroment
-To run this project,its is recommended to use a virtual environment.
+To run this project, its is recommended to use a virtual environment.
 Follew these steps to set it up.
 
-1. Clone the repository:
+1. Create an empty directory and navigate to it.
 
-    ```bash
+2. Clone the repository by using
     git clone https://github.com/jameskiper/States-and-Violent-Crime-Rates-.git
-    cd  States-and-Violent-Ctime-Rates-
-    ```
+    
+    
+3. Set up a virtual environment: 
 
-2. Set up a virtual environment: 
-
-    For Windows use 
-    ```bash
-    python -m venv venv
+    For Windows use command to create a virtaul environment
+     python -m venv venv
+    
+    To activate virtual environment use command
     .\venv\Scripts\activate 
 
     OR
-    
-    For macOS/Linux use
+
+    For macOS/Linux use command to create a virtaul environmet
     source venv/bin/activate 
+
+    To activate virtual environment use command
+    source venv/bin/activate
     
-    When you are done working in the virtual evironment
-    Run deactivate
 
-3. Install dependencies:
+4. Install dependencies:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+    Install the required packages and dependencies using
+    pip install -r requirements.txt command.
 
 ### Usage:
 
 1. Open the Jupyter Notebook or run your Python script:
 
-    ```bash
+    
     jupyter notebook  
-    # OR
+
+     OR
+
     python main.py  
-    ```
+    
 
 2. To run my script:
      Open my datafiles folder and open Edit_Finished_code_dataframe_for_project-1.ipynb to run my project script.
@@ -90,11 +92,11 @@ Follew these steps to set it up.
 
 ### Project Requirement Fulfilled:
 
-1. Read two CSV file, Scrape one pieces of data from the internet, merge two data sets and calculate new values,
-2. Cleaned Data,
-3. Used Matpotlib to make 3 visualizations to disply my data,
-4. Created a venv,
-5. Annotate JPY and wrote clear Readme. 
+1. Read two CSV file, Scrape one pieces of data from the internet, merge two data sets and calculate new values.
+2. Cleaned Data.
+3. Used Matpotlib to make 3 visualizations to disply my data.
+4. Created a venv.
+5. Annotate JPY and wrote clear README. 
 
 ### Data Sources 
 
