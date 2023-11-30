@@ -1,6 +1,6 @@
 ## Violent Crimes in States 
 
-This data project analyzes the violent crime rates over the past 10 years from each State to see which two States has the highest and lowest violent crime rates during 2011 thought 2020. We will also be looking at the over all violent crime rates and the popultaion in the United State during the last 20 years to see if there has been a population growth and if there has been a increase or decease in violent crime rates over the past 20 years from 2000 to 2020 in the United States population.
+This data project analyzes the violent crime rates over the past 10 years from each State to see which two States has the highest and lowest violent crime rates during 2011 thought 2020. We will also be looking at the over all violent crime rates and the popultaion in the United State during the last 20 years to see if there has been a population growth and if there has been a increase or decease in the violent crime rates over the past 20 years from 2000 to 2020 in the United States population.
 
 ## Introduction
 
