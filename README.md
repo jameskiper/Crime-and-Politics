@@ -57,11 +57,14 @@ Follew these steps to set it up.
 
     ```bash
     python -m venv venv
-    .\venv\Scripts\activate  # On Windows
+    .\venv\Scripts\activate   # On Windows
     # OR
     source venv/bin/activate  # On macOS/Linux
-    ```
-
+    
+    When you are done working in the virtual evironment
+    Run deactivate
+   
+ 
 3. Install dependencies:
 
     ```bash
@@ -78,7 +81,7 @@ Follew these steps to set it up.
     python main.py  # If using a script
     ```
 
-2. To run my script 
- Open my datafiles folder and open Edit_Finished_code_dataframe_for_project-1.ipynb to run my project script.
-
+2. To run my script:
+     Open my datafiles folder and open Edit_Finished_code_dataframe_for_project-1.ipynb to run my project script.
+    ```
 
