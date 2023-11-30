@@ -1,13 +1,13 @@
 ## Violent Crimes in States 
 
-This data project analyzes crime rates over the past 10 years and compares them to the top two States that had the most violent crime rates during the years of 2011 throught 2020. The goal is to see which states had the highest and the lowest violent crime rates and to see the over all crime rates and the popultaion growth in the United State during the last 20 years.
+This data project analyzes the violent crime rates over the past 10 years from each State to see with two States has the highest and lowest violent crime rates during 2011 thought 2020. We will also be looking at the over all violent crime rates and the popultaion in the United State during the last 20 years to see if there has been a population growth and if there has been a increase or decease in violent crime rates over the past 20 years from 2000 to 2020 in the United States population.
 
 ## Introduction
 
 The project focuses on examining Violent Crimes rates per States and Population growth during the years 2011 throught 2020.
-- What are the top two states with the highist and lowes crime rates over the past 10 years?
+- What are the top two states with the highist and lowes crime rates over the past 10 years.
 - Has there been any growth in the United states during the last 20 years. 
-- 
+- Has there been a increase or decrease in Violent came in the last 20 years.
 
 ## Data Files
 
@@ -31,7 +31,7 @@ The population growth has grown 17.80% between 2000 and 2020 and and the crime r
 ## Outcome of the Data Analysis
 
 The over all violent crime rates per year has dropped from 1,425,486 starting in the year 2000 to 1,313,105 to the year 2020 that 
-results in a overall decrease in violent crime rates with a 0.43% violent crime rate of the percentage of the population per year in the United States from 2000 to 2020. The overall population has grown from the year 2000 to 2020 by 17.80% over the last 20 years. The top two States with the highest crime rates were California during 2020 and Washington D.C. from 2011 to 2019. The top two states with the lowest voilent crimes rates were Maine during 2011 and 2015 thought 2015 and Vermont during 2012-2014 and 2020.
+results in a overall decrease in violent crime rates with a 0.43% violent crime rate of the percentage of the population per year in the United States from 2000 to 2020. The overall population has grown from the year 2000 to 2020 by 17.80% over the last 20 years. The top two States with the highest crime rates were California during 2020 and Washington D.C. from 2011 to 2019. The top two states with the lowest voilent crimes rates were Maine during 2011 and 2015 thought 2019 and Vermont during 2012-2014 and 2020.
 
 
 ### Running the Analysis
