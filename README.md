@@ -34,11 +34,11 @@ The over all violent crime rates per year has dropped from 1,425,486 starting in
 results in a overall decrease in violent crime rates with a 0.43% violent crime rate of the percentage of the population per year in the United States from 2000 to 2020. The overall population has grown from the year 2000 to 2020 by 17.80% over the last 20 years. The top two States with the highest crime rates were California during 2020 and Washington D.C. from 2011 to 2019. The top two states with the lowest voilent crimes rates were Maine during 2011 and 2015 thought 2015 and Vermont during 2012-2014 and 2020.
 
 
-### Running the Analysis:
+### Running the Analysis
 
 Follow these steps to run the data analysis project locally:
 
-### Prerequisites:
+### Prerequisites
 - Python 3.11.4
 - Jupyter Notebook 6.5.4
 
@@ -85,3 +85,16 @@ Follew these steps to set it up.
      Open my datafiles folder and open Edit_Finished_code_dataframe_for_project-1.ipynb to run my project script.
     ```
 
+### Project Requirement Fulfilled:
+
+1. Read two CSV file, Scrape one pieces of data from the internet, merge two data sets and calculate new values,
+2. Cleaned Data,
+3. Used Matpotlib to make 3 visualizations to disply my data,
+4. Created a venv,
+5. Annotate JPY and wrote clear Readme. 
+
+### Data Sources 
+
+https://www.kaggle.com/datasets/mathchi/violent-crime-rates-by-us-state/
+
+https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_violent_crime_rate
