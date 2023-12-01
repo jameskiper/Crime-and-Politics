@@ -81,17 +81,12 @@ Follow these steps to set it up.
 5. When you are done working in the virtual environment,
    you can deactivate it by running the following command: deactivate
 
-
-
 ### Usage:
-
-1. Open the Jupyter Notebook or run the Python script: 
-
-2. To run my script:
+1. To run my script:
      Open my datafiles folder and open Edit_Finished_code_dataframe_for_project-1.ipynb to run my project script.
     ```
     
-3.  Use jupyter notebook "main.ipynb"  
+2.  Use jupyter notebook "main.ipynb"  
 
      OR
 
