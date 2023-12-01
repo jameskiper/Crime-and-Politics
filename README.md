@@ -78,6 +78,11 @@ Follow these steps to set it up.
 
     The following packages will be required to run the program: ipykernel, requests, beautifulsoup4, pandas, matplotlib
 
+5. When you are done working in the virtual environment,
+   you can deactivate it by running the following command: deactivate
+
+
+
 ### Usage:
 
 1. Open the Jupyter Notebook or run your Python script: ipykernel
