@@ -87,11 +87,11 @@ Follow these steps to set it up.
 
 1. Open the Jupyter Notebook or run the Python script: 
 
-To run my script:
+2. To run my script:
      Open my datafiles folder and open Edit_Finished_code_dataframe_for_project-1.ipynb to run my project script.
     ```
     
-2.  Use jupyter notebook "main.ipynb"  
+3.  Use jupyter notebook "main.ipynb"  
 
      OR
 
