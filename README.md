@@ -76,16 +76,18 @@ Follow these steps to set it up.
     Install the required packages and dependencies using
     pip install -r requirements.txt command.
 
+    The following packages will be required to run the program: ipykernel, requests, beautifulsoup4, pandas, matplotlib
+
 ### Usage:
 
-1. Open the Jupyter Notebook or run your Python script:
+1. Open the Jupyter Notebook or run your Python script: ipykernel
 
     
-    jupyter notebook  
+    jupyter notebook "main.ipynb"  
 
      OR
 
-    python main.py  
+    python "main.py"  
     
 
 2. To run my script:
