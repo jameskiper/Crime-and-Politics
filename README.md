@@ -1,11 +1,11 @@
 ## Violent Crimes in States 
 
-This data project analyzes the violent crime rates over the past 10 years from each State to see which two States have the highest and lowest violent crime rates during 2011 through 2020. We will also be looking at the overall violent crime rates and the population in the United State during the last 20 years to see if there has been a population growth and if there has been an increase or decrease in the violent crime rates over the past 20 years from 2000 to 2020 in the United States population.
+This data project analyzes the violent crime rates over the past 10 years from each State to see which States have the highest and lowest violent crime rates during 2011 through 2020. We will also be looking at the overall violent crime rates and the population in the United State during the last 20 years to see if there has been a population growth and if there has been an increase or decrease in the violent crime rates over the past 20 years from 2000 to 2020 in the United States population.
 
 ## Introduction 
 
 The project focuses on examining Violent Crimes rates per States and Population growth during the years 2011 through 2020.
-- What are the top two states with the highest and lowest crime rates over the past 10 years?
+- What are the top states with the highest and lowest crime rates over the past 10 years?
 - Has there been any growth in the United States population during the last 20 years? 
 - Has there been an increase or decrease in violence in the last 20 years?
 
@@ -27,13 +27,13 @@ Yes, the crime rates have decreased in the last 10 years.
 2. What is the population growth and violent crimes rates over the last 20 years from 2000 to 2020?
 The population growth has grown 17.80% between 2000 and 2020 and the crime rates had decrease by 0.43% over the last 20 years between 2000 to 2020.
 
-3. What two states had the highest and lowest crime rates over the last 10 years from 2011 to 2020?
- From 2011 to 2020, the two hightest crime rate states were California and Washington D.C. and the lowest crime rate being Maine and Vermont.
+3. What states had the highest and lowest crime rates over the last 10 years from 2011 to 2020?
+   The State with the hightest crime rates was Washington D.C. and the States with the lowest crime rate were Maine and Vermont.
 
 ## Outcome of the Data Analysis
 
 The overall violent crime rates per year have dropped from 1,425,486 starting in the year 2000 to 1,313,105 to the year 2020 which 
-results in an overall decrease of 0.043% in violent crime rates for the percentage of the population per year in the United States from 2000 to 2020. The overall population has grown from the year 2000 to 2020 by 17.80% over the last 20 years. The top two States with the highest crime rates were California during 2020 and Washington D.C. from 2011 to 2019. The top two states with the lowest violent crimes rates were Maine during 2011 and 2015 throught 2019 and Vermont during 2012-2014 and 2020.
+results in an overall decrease of 0.043% in violent crime rates for the percentage of the population per year in the United States from 2000 to 2020. The overall population has grown from the year 2000 to 2020 by 17.80% over the last 20 years. The States with the highest crime rates was Washington D.C. from 2011 to 2020. The top states with the lowest violent crime rates were Vermont during 2013-2015 and Maine during 2011-2012 and 2016-2020.
 
 
 ### Running the Analysis
@@ -75,8 +75,6 @@ Follow these steps to set it up.
 
     Install the required packages and dependencies using
     pip install -r requirements.txt command.
-
-    The following packages will be required to run the program: ipykernel, requests, beautifulsoup4, pandas, matplotlib
 
 5. When you are done working in the virtual environment,
    you can deactivate it by running the following command: deactivate
