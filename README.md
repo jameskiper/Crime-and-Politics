@@ -84,10 +84,6 @@ Follow these steps to set it up.
      Open my datafiles folder and open Edit_Finished_code_dataframe_for_project-1.ipynb to run my project script.
 
 2.  Use jupyter notebook "main.ipynb"  
-
-     OR
-
-    python "main.py"  to run my script.
     
 
 ### Project Requirement Fulfilled:
